@@ -1,5 +1,7 @@
 # wireless_sonos
-A script that automatically changes your sound settings to use a Sonos speaker as your computer speakers
+A script that automatically changes your sound settings to use a Sonos speaker as your computer speakers.
+
+This script is Linux only and will probably stay Linux only.
 
 # Installation
 Make sure you have Python 3 installed with `soco`. You can install soco with the following command:
