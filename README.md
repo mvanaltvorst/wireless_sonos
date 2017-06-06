@@ -7,6 +7,11 @@ Make sure you have Python 3 installed with `soco`. You can install soco with the
 pip install soco
 ```
 
+Then we clone the repo with the following command:
+```bash
+git clone https://github.com/Maplicant/wireless_sonos.git
+```
+
 Then change line 3 of the `wirelesssound.sh` to the IP of the sonos speaker
 
 `authenticdefault.pa` was the original `/etc/pulse/default.pa` that was supplied with my Ubuntu distribution.
