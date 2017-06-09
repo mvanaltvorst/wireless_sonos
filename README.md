@@ -14,7 +14,7 @@ Then we clone the repo with the following command:
 git clone https://github.com/Maplicant/wireless_sonos.git
 ```
 
-Then we setup our firewall to allow an outgoing tcp stream on porn 8554
+Then we setup our firewall to allow an outgoing tcp stream on port 8554
 ```bash
 sudo iptables -I INPUT -p tcp --dport 8554 -j ACCEPT
 ```
