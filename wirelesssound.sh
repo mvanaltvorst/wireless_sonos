@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SPEAKERIP="192.168.178.49"
+SPEAKERIP="192.168.178.57"
 LOCALHOSTIP="$(hostname -I)"
 
 cd "$(dirname "$0")" # We need to run scripts from the current directory, so let's head there first

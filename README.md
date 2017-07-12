@@ -34,4 +34,4 @@ To run the script, use the following command:
 ```bash
 sudo ./wirelesssound.sh
 ```
-(the script needs root privileges to modify /etc/pulse/default.pa)
+(the script needs root privileges to modify `/etc/pulse/default.pa`)
