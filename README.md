@@ -11,7 +11,7 @@ pip install soco
 
 Then we clone the repo with the following command:
 ```bash
-git clone https://github.com/Maplicant/wireless_sonos.git
+git clone https://github.com/mvanaltvorst/wireless_sonos.git
 ```
 
 Then we setup our firewall to allow an outgoing tcp stream on port 8554
