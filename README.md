@@ -1,5 +1,5 @@
 # wireless_sonos
-A script that automatically changes your sound settings to use a Sonos speaker as your computer speakers.
+This script will change your PulseAudio configuration file so it will stream your audio over Sonos speakers on the network. It works by opening a VLC network radio stream, pointing PulseAudio to it and telling the Sonos speaker to listen to the VLC radio broadcast. 
 
 This script is Linux only and will probably stay Linux only.
 
